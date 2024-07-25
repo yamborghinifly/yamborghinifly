@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fly</h1>
 <h3 align="center">Just another student trying to learn how to code</h3>
 
-- 🌱 I’m currently learning **Dotnet C# & Linux (NixOS)**
+- 🌱 I’m currently learning **Dotnet C# **
 
 - 💬 Ask me about **Camera Sensors**
 
