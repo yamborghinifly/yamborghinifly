@@ -27,7 +27,8 @@
 
 ###
 
-<p align="left">I'm Flavius from Austria</p>
+<p align="left">I'm Flavius from Austria.</p>
+<p align="left">I build and destroy stuff. </p>
 
 ###
 
