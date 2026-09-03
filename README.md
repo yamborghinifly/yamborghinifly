@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamborghinifly&label=Profile%20views&color=0e75b6&style=flat" alt="yamborghinifly" /> </p>
 
-- 🌱 I’m currently learning **Rust and C++**
+- 🌱 I’m currently learning **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
